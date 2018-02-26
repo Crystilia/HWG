@@ -25,6 +25,8 @@ SOUND:
 
 CODE:
 - Menu.
+- Credits/Game Win Screen.
+- Game Loss Screen.
 - Final Navmesh for Sentry.
 	- Add random pathing. (Easy)
 - Multiple books to throw plus drop points.
