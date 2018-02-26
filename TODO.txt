@@ -1,0 +1,45 @@
+ART:
+- Combine rooms to make final level.
+- Model small details.
+	- Books/Throwable objects. 
+	- Will be taken care of by Sarah.
+- Sentry model.
+	- Low animation needs preferrable.
+- Car model.
+- STRETCH GOAL: Extra textures for the whole environment.
+
+SOUND:
+- Inside Library music.
+- Sentry noises.
+	- Normal noises.
+	- Angry noises.
+- Action music. 
+	- While player is carrying McMuffin.
+- Book throw sound.
+	- Only needs the landing noise.
+	- A few variations would be ideal so it doesn't always sound the same.
+- Outside ambiance. 
+	- Bird noises.
+	- Wind.
+	- Etc.
+
+CODE:
+- Menu.
+- Final Navmesh for Sentry.
+	- Add random pathing. (Easy)
+- Multiple books to throw plus drop points.
+	- Needs 5-8 depending on scale. (Easy)
+- Give player the ability to drop items instead of throw. (Medium)
+- Give player to hold things in each hand. (Possibly hard.)
+	- Mitigated by hidden inventory.
+		- Game ends when Sentry touches player.
+	- Ideally the Sentry will take the McMuffin away and put it back.
+		- The player must then go get the McMuffin again.
+		- After three fails, the Sentry kicks the player out and the game ends.
+- Rotating room. (Medium)
+- Player HUD.
+	- Needed for raycast targetting. (Easy)
+	- If the 3x fail condition makes it into the game, offer some way for the player to count remaining chances.
+- STRETCH GOAL: Talking Sentry with text overlay.
+- STRETCH GOAL: ID grab at beginning of game.
+- STRETCH GOAL: Stealth mechanic.
