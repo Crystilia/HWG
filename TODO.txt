@@ -6,7 +6,11 @@ ART:
 - Sentry model.
 	- Low animation needs preferrable.
 - Car model.
+- Lamp posts.
+	-With lights.
+- Smaller bookcases.
 - STRETCH GOAL: Extra textures for the whole environment.
+
 
 SOUND:
 - Inside Library music.
